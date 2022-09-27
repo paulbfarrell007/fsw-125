@@ -7,7 +7,7 @@ const bounties = [
         fName: "Inde",
         lName: "Jones",
         living: false,
-        bountyAmount: 5000,
+        bountyAmount: 5973418,
         type: "Explorer",
         _id: uuid.v4()
     },
