@@ -15,7 +15,7 @@ const bounties = [
         fName: "Henry",
         lName: "Jones",
         living: false,
-        bountyAmount: 100000,
+        bountyAmount: 985734,
         type: "father",
         _id: uuid.v4()
     }
